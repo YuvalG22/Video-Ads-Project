@@ -31,6 +31,8 @@ To run the API with your own MongoDB database:
  node index.js
  ```
 
+The server will use your custom database. All API routes remain the same.
+
 
 ## 🔑 Endpoints
 
