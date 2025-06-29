@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React / Vite
+dist/
+build/
+.vite/
+
+# Android
+*.iml
+.gradle/
+local.properties
+/.idea/
+.DS_Store
+build/
+captures/
+output.json
+.cxx/
+*.apk
+*.ap_
+*.db
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Git
+.git/
+
+# VSCode
+.vscode/
