@@ -47,7 +47,7 @@ Android developers who want to monetize their apps with location-based video ads
 ```
 
 🧩 Want to use your own database?  
-See [API Setup Guide](./api/README.md#-using-your-own-mongodb-database)
+See [API Setup Guide](./Video-Ads-API/README.md#-using-your-own-mongodb-database)
 
 
 ---
